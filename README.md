@@ -19,7 +19,7 @@
 - Entity ID Яндекс Станции
 - Уровни громкости
 
-## Сборка и запуск
+## Сборка и запуск (нужен Python3)
 ```
 pip install -r requirements.txt
 build.cmd
