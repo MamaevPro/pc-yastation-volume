@@ -1,0 +1,1 @@
+pyinstaller -F -c -y --onefile pc-yastation-volume.py
