@@ -1,0 +1,6 @@
+pyinstaller
+asyncio
+soundcard
+pycaw
+hassapi
+winrt.windows.devices.radios
