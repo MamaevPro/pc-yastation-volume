@@ -25,3 +25,5 @@ pip install -r requirements.txt
 build.cmd
 dist/pc-yastation-volume.exe
 ```
+## Пример работы
+<img width="433" height="455" alt="image" src="https://github.com/user-attachments/assets/4b4bcf29-358a-4e79-98f1-b51555ba3f55" />
